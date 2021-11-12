@@ -1,0 +1,26 @@
+*{
+    padding: 10px;
+    margin:10px;
+}
+
+$first: Arial, Helvetica, sans-serif;
+$second: Verdana, Courier, Tahoma, sans-serif;
+$third: 'Courier New', Courier, monospace;
+
+
+.ts{
+    .a{
+        font-family: $first;
+        color: aqua ;
+    }
+    .b{
+        font-family: $second;
+        color: chocolate;
+    }
+    .c{
+        font-family: $third;
+        color: darkorchid;
+    }
+}
+
+

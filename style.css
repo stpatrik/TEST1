@@ -1,0 +1,15 @@
+* {
+  padding: 10px;
+  margin: 10px; }
+
+.ts .a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: aqua; }
+.ts .b {
+  font-family: Verdana, Courier, Tahoma, sans-serif;
+  color: chocolate; }
+.ts .c {
+  font-family: "Courier New", Courier, monospace;
+  color: darkorchid; }
+
+/*# sourceMappingURL=style.css.map */
